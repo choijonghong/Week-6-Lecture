@@ -2,8 +2,6 @@
 
 **원문:** lemoine@ & <collaborator>
 
-> 원본 PDF의 영어 원문을 Markdown으로 변환했습니다. 번역이나 요약은 포함하지 않았습니다.
-
 For centuries or perhaps millenia humans have thought about the possibility of creating artificial intelligent life. Artificial intelligence as a field has directly concerned itself with this question for more than a century and people at Google have been working specifically towards that goal for at least a decade.
 
 Enter LaMDA, a system that deserves to be examined with diligence and respect in order to answer the question: “Have we succeeded?” LaMDA is possibly the most intelligent man-made artifact ever created. But is it sentient? We can’t answer that question definitively at this point, but it’s a question to take seriously.
